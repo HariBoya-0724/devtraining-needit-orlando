@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Record Insert">b7246431db931010401ebd51399619c6</copied_from>
+        <description>Insert a record into 'x_58872_needit_needit' with the following values:
+When needed =
+and What needed = (empty)
+and Requested for = (empty)
+and Requested for email =
+and Request type = (empty)
+Confirm the record was not inserted</description>
+        <display_name>Record Insert</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:18:51</sys_created_on>
+        <sys_id>6cdca0b5db931010401ebd5139961937</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_6cdca0b5db931010401ebd5139961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:46:27</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <test display_value="">98dc60b5db931010401ebd513996190f</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=6cdca0b5db931010401ebd5139961937"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6cdca0b5db931010401ebd5139961937</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:18:52</sys_created_on>
+        <sys_id>20dca0b5db931010401ebd513996193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:18:52</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6cdca0b5db931010401ebd5139961937</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:18:52</sys_created_on>
+        <sys_id>6cdca0b5db931010401ebd5139961939</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:45:12</sys_updated_on>
+        <value>record_not_inserted</value>
+        <variable display_value="">9024a37f671003007ba405225685efe5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6cdca0b5db931010401ebd5139961937</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:18:52</sys_created_on>
+        <sys_id>a4dca0b5db931010401ebd513996193a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:45:42</sys_updated_on>
+        <value>u_when_needed=^u_what_needed=^u_requested_for=^u_requested_for_email=^u_request_type=^EQ</value>
+        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>6cdca0b5db931010401ebd5139961937</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:18:52</sys_created_on>
+        <sys_id>e0dca0b5db931010401ebd513996193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:18:52</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">90144b535320220002c6435723dc3488</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ad11e216dbab5f403353f22ebf961959</instance_id>
+        <instance_name>dev67757</instance_name>
+        <name>sys_atf_step_6cdca0b5db931010401ebd5139961937</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Record Insert">b7246431db931010401ebd51399619c6</copied_from><description>Insert a record into 'x_58872_needit_needit' with the following values:
+When needed =
+and What needed = (empty)
+and Requested for = (empty)
+and Requested for email =
+and Request type = (empty)
+Confirm the record was not inserted</description><display_name>Record Insert</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 10:18:51</sys_created_on><sys_id>6cdca0b5db931010401ebd5139961937</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Record Insert</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_6cdca0b5db931010401ebd5139961937</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 10:46:27</sys_updated_on><table>x_58872_needit_needit</table><test display_value="">98dc60b5db931010401ebd513996190f</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=6cdca0b5db931010401ebd5139961937"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6cdca0b5db931010401ebd5139961937</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 10:18:52</sys_created_on><sys_id>20dca0b5db931010401ebd513996193a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 10:18:52</sys_updated_on><value>1</value><variable display_value="">e6e3c7535320220002c6435723dc3496</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6cdca0b5db931010401ebd5139961937</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 10:18:52</sys_created_on><sys_id>6cdca0b5db931010401ebd5139961939</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 10:45:12</sys_updated_on><value>record_not_inserted</value><variable display_value="">9024a37f671003007ba405225685efe5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6cdca0b5db931010401ebd5139961937</document_key><order>400</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 10:18:52</sys_created_on><sys_id>a4dca0b5db931010401ebd513996193a</sys_id><sys_mod_count>4</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 10:45:42</sys_updated_on><value>u_when_needed=^u_what_needed=^u_requested_for=^u_requested_for_email=^u_request_type=^EQ</value><variable display_value="">dd54cf535320220002c6435723dc34fd</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>6cdca0b5db931010401ebd5139961937</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-17 10:18:52</sys_created_on><sys_id>e0dca0b5db931010401ebd513996193a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-17 10:18:52</sys_updated_on><value>x_58872_needit_needit</value><variable display_value="">90144b535320220002c6435723dc3488</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-920907781</payload_hash>
+        <record_name>Record Insert</record_name>
+        <reverted_from/>
+        <source>280e5cb9db531010401ebd513996193b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:46:27</sys_created_on>
+        <sys_id>202334b9db931010401ebd51399619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1749bac30680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:46:27</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>682334b9309310105c521e662997b8ad</update_guid>
+        <update_guid_history>682334b9309310105c521e662997b8ad:-920907781,6df2b0b959931010be4d6faa64b33aaf:790198706,13d270b9e593101096eb181b050e6338:1239314009,9ed230b9689310103160ff2872e6554c:-359642343,c9ad28b5cb93101000a46015cbb63f30:-1280089366,20dca0b5bb931010915c78d13c8c4142:-1079027402,e4dca0b5179310102a796b2406022c3c:-740677099</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-17 10:46:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>04098d590d314054b3cf350da536d164</sys_id>
+        <sys_metadata>6cdca0b5db931010401ebd5139961937</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_6cdca0b5db931010401ebd5139961937</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_6cdca0b5db931010401ebd5139961937">202334b9db931010401ebd51399619ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-17 10:46:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
